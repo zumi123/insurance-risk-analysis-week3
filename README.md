@@ -72,7 +72,7 @@ This repository contains the work for **Task 1** of the project: *End-to-End Ins
 2. Run the EDA script:
 
    ```bash
-   python eda_analysis.py
+   python insurance_risk_analysis.py
    ```
 
 3. View results in the `plots/` folder.
